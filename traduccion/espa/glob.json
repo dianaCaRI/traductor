@@ -1,0 +1,10 @@
+{
+   
+    "data":{
+        "descripcion":"",
+        "contador": "Count visit",
+        "contador2": "Visitor counter",
+        "tecnologias": "Technologies I use:  Javascript, AngularJS, VueJS, Socket.io, Reactjs, Express, Nodejs, Git, MySQL, MongoDB, PHP, Laravel, Lumen, ..."
+
+    }
+}
