@@ -1,7 +1,12 @@
 {
+    "navbar":{
+        "espanol":"español",
+        "ingles":"ingles",
+        "inicio":"Inicio"
+    },
    
     "data":{
-        "descripcion":"Description of you, what do you like, what do you expect when you finish your degree: When I finish my degree, I will possibly continue working in the company where I am currently, it is where I am learning a lot on my own, and getting to know new technologies. I expect a lot from my career since it is the future, and it still needs to develop much more.",
+        "descripcion":"This career is very interesting since it is too extensive, what I like a lot is that there are many branches where we can work depending on what each of us does best",
         "contador": "Count visit",
         "contador2": "Visitor counter",
         "tecnologias": "Technologies I use:  Javascript, AngularJS, VueJS, Socket.io, Reactjs, Express, Nodejs, Git, MySQL, MongoDB, PHP, Laravel, Lumen, ..."
